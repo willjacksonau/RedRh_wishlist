@@ -52168,11 +52168,11 @@ dimwishlist:item=4281371574&perks=202670084,3142289711,1570042021,2213355989
 
 // Long Shadow - Long Shadow PvE (god-pve,pve)
 //notes: PvE Rolls tags:god-pve,pve
-dimwishlist:item=3745990145&perks=893526892,106909392,247725512,3400784728
+dimwishlist:item=3745990145&perks=893526892,1431678320,247725512,3400784728,758092021
 
 // Seventh Seraph Carbine - Seventh Seraph Carbine PvE (god-pve,pve)
 //notes: PvE Rolls tags:god-pve,pve
-dimwishlist:item=1561006927&perks=893526892,106909392,247725512,3400784728
+dimwishlist:item=1561006927&perks=3661387068,1968497646,3300816228,1546637391,1590375901
 
 // Posterity - Posterity PvE (god-pve,pve)
 //notes: PvE Rolls tags:god-pve,pve
