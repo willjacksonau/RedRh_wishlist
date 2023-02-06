@@ -52227,3 +52227,34 @@ dimwishlist:item=3000847393&perks=839105230,1885400500,2779035018,11612903
 //Gallu RR3 - Gallu RR3 (pve)
 //notes: PvE Rolls tags:pve
 dimwishlist:item=617501162&perks=1467527085,1087426260,3643424744,2896038713
+
+//Jararaca-3sr - Jararaca-3sr (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=1851521408&perks=3661387068,1431678320,247725512,1015611457
+
+//Boudica-C - Boudica-C (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=1916287826&perks=3661387068,2420895100,691659142,4082225868
+dimwishlist:item=1916287826&perks=3250034553,1885400500,2010801679,4104185692
+
+//Horror's Least - Horror's Least (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=216983039&perks=202670084,106909392,1428297954,1015611457,1281216113
+
+//Ogma PR6 - Ogma PR6 (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=2342054803&perks=4090651448,3230963543,3523296417,3592538738
+
+//The Wizened Rebuke - The Wizened Rebuke (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=1999697514&perks=839105230,1483536627,1570042021,1546637391
+
+//Mindbender's Ambition - Mindbender's Ambition (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=1094005544&perks=1332244541,3177308360,3300816228,2679249093,1281216113
+
+//Terminus Horizon - Terminus Horizon (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=487205709&perks=1467527085,1885400500,3523296417,365154968
+
+
