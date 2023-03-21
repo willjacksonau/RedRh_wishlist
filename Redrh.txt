@@ -52293,3 +52293,7 @@ dimwishlist:item=1456017061&perks=3666208348,52780822,1749209109,3913600130
 //notes: PvE Rolls tags:pve
 dimwishlist:item=2673925403&perks=1467527085,106909392,1354429876,1771339417
 
+//Basso Ostinato - Basso Ostinato (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=2573900604&perks=1482024992,2420895100,1556840489,2048641572
+
