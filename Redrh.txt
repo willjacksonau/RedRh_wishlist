@@ -52257,4 +52257,35 @@ dimwishlist:item=1094005544&perks=1332244541,3177308360,3300816228,2679249093,12
 //notes: PvE Rolls tags:pve
 dimwishlist:item=487205709&perks=1467527085,1885400500,3523296417,365154968
 
+//Synchronic Roulette - Synchronic Roulette (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=811403305&perks=839105230,1561002382,972757866,365154968
+
+//The Immortal - The Immortal (pvp)
+//notes: PvP Rolls tags:pvp
+dimwishlist:item=4039572196&perks=3250034553,1885400500,2846385770,365154968,2120661319
+
+//The Immortal (Adept) - The Immortal (Adept) (pvp)
+//notes: PvP Rolls tags:pvp
+dimwishlist:item=3193598749&perks=3250034553,1885400500,1195158366,1015611457,2988596335
+
+//Riptide - Riptide (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=2715240478&perks=3250034553,689005463,3300816228,2978966579
+
+//Coronach-22 - Coronach-22 (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=355382946&perks=1840239774,1431678320,968510818,4293542123
+
+//Trust - Trust (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=2850664015&perks=839105230,1087426260,3400784728,4104185692
+
+//Ecliptic Distaff - Ecliptic Distaff (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=3001205424&perks=1966281507,1782407750,744217850
+
+//Nasreddin - Nasreddin (pve)
+//notes: PvE Rolls tags:pve
+dimwishlist:item=1456017061&perks=3666208348,52780822,1749209109,3913600130
 
